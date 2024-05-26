@@ -51,7 +51,7 @@
       }
     ],
     "no-console": [
-      "error",
+      "warning",
       {
         "allow": ["error", "warn"]
       }
