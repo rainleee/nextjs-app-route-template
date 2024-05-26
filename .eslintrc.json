@@ -49,12 +49,6 @@
           }
         ]
       }
-    ],
-    "no-console": [
-      "warning",
-      {
-        "allow": ["error", "warn"]
-      }
     ]
   },
   "overrides": [
